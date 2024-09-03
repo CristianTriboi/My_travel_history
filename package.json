@@ -1,0 +1,19 @@
+{
+  "name": "my_travel_history",
+  "version": "1.0.0",
+  "description": "Tracking application of my past travels",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CristianTriboi/My_travel_history.git"
+  },
+  "author": "Cristian Triboi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CristianTriboi/My_travel_history/issues"
+  },
+  "homepage": "https://github.com/CristianTriboi/My_travel_history#readme"
+}
